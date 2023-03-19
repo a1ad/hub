@@ -1,0 +1,14 @@
+2023-03-18T20:35:05.734011+01:00 10.120.127.1 firewall,info drop-in input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto UDP, 186.26.78.68:44355->81.82.202.145:53, len 65
+2023-03-18T20:35:05.734070+01:00 10.120.127.1 firewall,info drop-in input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto UDP, 186.26.78.68:44355->81.82.202.145:53, len 65
+2023-03-18T20:35:05.734257+01:00 10.120.127.1 firewall,info drop-in input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto UDP, 188.187.129.93:80->81.82.202.145:53, len 59
+2023-03-18T20:35:05.734466+01:00 10.120.127.1 firewall,info drop-in input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto UDP, 186.26.78.68:44355->81.82.202.145:53, len 65
+2023-03-18T20:35:05.734466+01:00 10.120.127.1 firewall,info drop-in input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto UDP, 54.38.179.148:2303->81.82.202.145:53, len 48
+2023-03-18T20:35:05.734506+01:00 10.120.127.1 firewall,info drop-in input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto UDP, 186.26.78.68:44355->81.82.202.145:53, len 65
+2023-03-18T20:35:05.734637+01:00 10.120.127.1 firewall,info drop-in input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto UDP, 186.26.78.68:44355->81.82.202.145:53, len 65
+
+<2023-03-18T20:36:50.094660+01:00 10.120.127.1 firewall,info drop-tcp input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto TCP (SYN), 94.102.61.28:57100->81.82.202.145:8688, len 40
+2023-03-18T20:36:53.814566+01:00 10.120.127.1 firewall,info drop-tcp input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto TCP (SYN), 46.161.27.136:59221->81.82.202.145:40710, len 40
+2023-03-18T20:36:56.514652+01:00 10.120.127.1 firewall,info drop-tcp input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto TCP (SYN), 121.199.56.253:46335->81.82.202.145:445, len 40
+2023-03-18T20:36:57.185223+01:00 10.120.127.1 firewall,info drop-tcp input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto TCP (SYN), 192.99.175.187:3350->81.82.202.145:990, len 60
+2023-03-18T20:36:57.334553+01:00 10.120.127.1 firewall,info drop-tcp input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto TCP (SYN), 192.241.203.232:44243->81.82.202.145:3790, len 40
+2023-03-18T20:36:59.594792+01:00 10.120.127.1 firewall,info drop-tcp input: in:ether1-WAN out:(unknown 0), connection-state:new src-mac 00:17:10:88:bc:02, proto TCP (SYN), 36.97.161.219:59388->81.82.202.145:23, len 40

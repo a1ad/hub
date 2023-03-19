@@ -1,0 +1,12 @@
+parsers:
+- crowdsecurity/syslog-logs
+- crowdsecurity/dateparse-enrich
+scenarios:
+- ""
+postoverflows:
+- ""
+log_file: mikrotik-bf.log
+log_type: mikrotik_firewall_input
+labels: {}
+ignore_parsers: false
+override_statics: []
